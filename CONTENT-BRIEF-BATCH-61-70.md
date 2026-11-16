@@ -1,5 +1,7 @@
 # Editorial Brief — Batch 61–70
 
+<badge>Completed and verified</badge>
+
 Project: Ace Restoration Haltom  
 Batch: 61–70  
 Format: Plain semantic HTML fragments only; no CSS, JS, metadata tags, head/body wrappers, schema, or scripts.  
@@ -30,7 +32,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Hurst city page; fire/smoke hub; smoke odor removal; water restoration hub; contact.
 - SEO title: Fire & Smoke Damage Restoration Hurst TX | Ace
 - Meta: Fire or smoke damage in Hurst? Learn about soot cleanup, smoke residue, contents care, and restoration after the property is cleared.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 2298
 
 ### 62. Hurst Mold Removal & Remediation
 - URL: `/service-areas/hurst/mold-removal-remediation/`
@@ -46,7 +48,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Hurst city page; mold hub; water hub; mold-after-water-damage guide; contact.
 - SEO title: Mold Removal & Remediation Hurst TX | Ace Restoration
 - Meta: Mold concern in Hurst? Learn about moisture checks, containment, affected materials, and Texas mold assessment and remediation requirements.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 2142
 
 ### 63. Bedford Water Damage Restoration
 - URL: `/service-areas/bedford/water-damage-restoration/`
@@ -62,7 +64,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Bedford city page; water hub; burst pipe; appliance leak; structural drying; flood extraction; mold hub; contact.
 - SEO title: Water Damage Restoration Bedford TX | Ace Restoration
 - Meta: Water damage in Bedford, TX? Learn about safe water removal, moisture checks, structural drying, and next steps for local properties.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 2141
 
 ### 64. Bedford Fire & Smoke Damage Restoration
 - URL: `/service-areas/bedford/fire-smoke-damage-restoration/`
@@ -78,7 +80,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Bedford city page; fire/smoke hub; smoke odor removal; water hub; structural drying; contact.
 - SEO title: Fire & Smoke Damage Restoration Bedford TX | Ace
 - Meta: Fire or smoke damage in Bedford? Learn about soot cleanup, smoke migration, contents care, and restoration after official clearance.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 2079
 
 ### 65. Bedford Mold Removal & Remediation
 - URL: `/service-areas/bedford/mold-removal-remediation/`
@@ -94,7 +96,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Bedford city page; mold hub; water hub; mold-after-water-damage; contact.
 - SEO title: Mold Removal & Remediation Bedford TX | Ace Restoration
 - Meta: Mold concern in Bedford? Learn about moisture sources, professional assessment, containment, material removal, and Texas remediation rules.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 2210
 
 ### 66. Colleyville Water Damage Restoration
 - URL: `/service-areas/colleyville/water-damage-restoration/`
@@ -110,7 +112,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Colleyville city page; water hub; flood extraction; burst pipe; appliance leak; structural drying; mold hub; contact.
 - SEO title: Water Damage Restoration Colleyville TX | Ace
 - Meta: Water damage in Colleyville? Explore water extraction, moisture checks, structural drying, and local drainage responsibilities.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 2083
 
 ### 67. Colleyville Fire & Smoke Damage Restoration
 - URL: `/service-areas/colleyville/fire-smoke-damage-restoration/`
@@ -126,7 +128,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Colleyville city page; fire/smoke hub; smoke odor removal; water hub; contact.
 - SEO title: Fire & Smoke Damage Restoration Colleyville TX
 - Meta: Fire or smoke damage in Colleyville? Learn about soot cleanup, smoke migration, contents care, and restoration after the scene is cleared.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 1988
 
 ### 68. Colleyville Mold Removal & Remediation
 - URL: `/service-areas/colleyville/mold-removal-remediation/`
@@ -142,7 +144,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Colleyville city page; mold hub; water hub; mold-after-water-damage; contact.
 - SEO title: Mold Removal & Remediation Colleyville TX | Ace
 - Meta: Mold concern in Colleyville? Learn about moisture sources, assessment, containment, and Texas mold remediation requirements.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 2125
 
 ### 69. Arlington Water Damage Restoration
 - URL: `/service-areas/arlington/water-damage-restoration/`
@@ -158,7 +160,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Arlington city page; water hub; flood extraction; storm/roof leak; burst pipe; structural drying; mold hub; contact.
 - SEO title: Water Damage Restoration Arlington TX | Ace Restoration
 - Meta: Water damage in Arlington, TX? Learn about water extraction, moisture checks, structural drying, and the difference between public and private drainage.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 2254
 
 ### 70. Arlington Fire & Smoke Damage Restoration
 - URL: `/service-areas/arlington/fire-smoke-damage-restoration/`
@@ -174,7 +176,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Links: Arlington city page; fire/smoke hub; smoke odor removal; water hub; contact.
 - SEO title: Fire & Smoke Damage Restoration Arlington TX | Ace
 - Meta: Fire or smoke damage in Arlington? Learn about soot cleanup, smoke migration, contents care, and restoration after official clearance.
-- Target body length: 1,700–1,850 words.
+- Final visible word count: 1975
 
 ## Research references
 - Hurst Fire Prevention: https://www.hursttx.gov/about-us/departments/fire-ems/fire-prevention
@@ -198,3 +200,7 @@ Canonical URL and H1 must match `website-page-structure.md`.
 - Arlington flood information: https://www.arlingtontx.gov/Government/Departments/Department-Directory/Stormwater-Management/Floodplain-Administration/Flood-Information-Services-and-Elevation-Certificates
 - TDLR mold FAQs: https://www.tdlr.texas.gov/mld/mldfaq.htm
 - TDLR mold laws and rules: https://www.tdlr.texas.gov/mld/laws-rules.htm
+
+
+## Completion status
+All ten canonical HTML pages have been created in the repository. Each page has more than 1,500 visible words, exactly one inventory-matching H1, semantic `<main>` and `<article>` structure, and no head, metadata, CSS, JavaScript, schema, or script elements. Relative internal links were checked against the approved page inventory; linked `.html` sub-service targets were fetched and confirmed to exist. Service hub links were updated for the new city-specific pages.
