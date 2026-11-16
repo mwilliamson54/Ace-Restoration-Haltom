@@ -1,6 +1,6 @@
 # Editorial Brief — Batch 61–70
 
-<badge>Completed and verified</badge>
+**Status: Completed and verified**
 
 Project: Ace Restoration Haltom  
 Batch: 61–70  
