@@ -1,6 +1,6 @@
 # Website Page Structure: Restoration Services, Haltom City TX & Surrounding Areas
 
-Complete page inventory following Google Search Central guidance. `{Brand}` = your business name. Replace `example.com` with your domain.
+Complete page inventory for Ace Restoration's Fort Worth-first strategy. `{Brand}` = Ace Restoration. Homepage primary target: water damage restoration Fort Worth, TX.
 
 ## 1. Google best-practice rules applied
 
@@ -19,7 +19,7 @@ Complete page inventory following Google Search Central guidance. `{Brand}` = yo
 
 | # | URL | H1 | Title tag | Notes |
 |---|---|---|---|---|
-| 1 | `/` | Water Damage Restoration in Haltom City, TX | Water Damage Restoration Haltom City TX | {Brand} | Index. Home page and the Haltom City x Water Damage page |
+| 1 | `/` | Water Damage Restoration in Fort Worth, TX | Water Damage Restoration Fort Worth TX | {Brand} | Index. Primary Fort Worth water-damage landing page; also introduces fire/smoke restoration and mold removal/remediation across Fort Worth, Haltom City, and Bedford. |
 | 2 | `/service-areas/` | Areas We Serve Around Haltom City & Fort Worth | Service Areas: Fort Worth, Arlington, Hurst & More | {Brand} | Index. Location hub, links to all 20 city pages |
 | 3 | `/about/` | About {Brand} | About Us | {Brand} | Index. Team, licenses, certifications (IICRC), E-E-A-T |
 | 4 | `/contact/` | Contact & Free Estimate | Contact {Brand} | 24/7 Emergency Restoration | Index. Quote form, phone, NAP, map |
@@ -90,7 +90,7 @@ Each city page covers all three services, lists the ZIP codes, has a neighborhoo
 
 ## 6. City x Service pages (59)
 
-`/service-areas/haltom-city/water-damage-restoration/` is **not** created; 301 redirect it to `/` (the homepage targets that keyword).
+Create `/service-areas/haltom-city/water-damage-restoration/` as a dedicated Haltom City water-damage page. Homepage no longer targets Haltom City as its primary keyword.
 
 | # | URL | H1 | Title tag | Notes |
 |---|---|---|---|---|
@@ -123,7 +123,7 @@ Each city page covers all three services, lists the ZIP codes, has a neighborhoo
 | 78 | `/service-areas/haslet/water-damage-restoration/` | Water Damage Restoration in Haslet, TX | Water Damage Restoration Haslet TX | {Brand} | Index. Parent: `/service-areas/haslet/` |
 | 79 | `/service-areas/haslet/fire-smoke-damage-restoration/` | Fire & Smoke Damage Restoration in Haslet, TX | Fire & Smoke Damage Restoration Haslet TX | {Brand} | Index. Parent: `/service-areas/haslet/` |
 | 80 | `/service-areas/haslet/mold-removal-remediation/` | Mold Removal & Remediation in Haslet, TX | Mold Removal & Remediation Haslet TX | {Brand} | Index. Parent: `/service-areas/haslet/` |
-| 81 | `/service-areas/fort-worth/water-damage-restoration/` | Water Damage Restoration in Fort Worth, TX | Water Damage Restoration Fort Worth TX | {Brand} | Index. Parent: `/service-areas/fort-worth/` |
+| 81 | `/service-areas/fort-worth/water-damage-restoration/` | Water Damage Restoration in Fort Worth, TX | Water Damage Restoration Fort Worth TX | {Brand} | Retire as a competing landing page and 301 redirect to `/` after redirect implementation is verified. Homepage owns primary Fort Worth water-damage intent. |
 | 82 | `/service-areas/fort-worth/fire-smoke-damage-restoration/` | Fire & Smoke Damage Restoration in Fort Worth, TX | Fire & Smoke Damage Restoration Fort Worth TX | {Brand} | Index. Parent: `/service-areas/fort-worth/` |
 | 83 | `/service-areas/fort-worth/mold-removal-remediation/` | Mold Removal & Remediation in Fort Worth, TX | Mold Removal & Remediation Fort Worth TX | {Brand} | Index. Parent: `/service-areas/fort-worth/` |
 | 84 | `/service-areas/benbrook/water-damage-restoration/` | Water Damage Restoration in Benbrook, TX | Water Damage Restoration Benbrook TX | {Brand} | Index. Parent: `/service-areas/benbrook/` |
@@ -306,3 +306,14 @@ Have a qualified Texas attorney review the final legal text before publishing.
 2. Sub-service pages.
 3. Remaining cities and combos.
 4. Blog and FAQ expansion.
+
+
+## Updated Fort Worth-first keyword and page ownership (2026-11-24)
+
+- Homepage `/` owns the primary commercial keyword family **Water Damage Restoration Fort Worth**. It introduces water damage restoration, fire and smoke damage restoration, mold removal, and mold remediation across Fort Worth, Haltom City, and Bedford. Water restoration receives the strongest prominence and depth.
+- Dedicated Haltom City water page: `/service-areas/haltom-city/water-damage-restoration/`. It targets water damage restoration Haltom City and related local variants. It must not use Fort Worth as its primary target.
+- Bedford water page retains Bedford-specific intent. The homepage may link to it but should not reproduce its detailed local coverage.
+- Existing Fort Worth water page #81 duplicates the homepage's primary intent. Implement and verify a permanent 301 from `/service-areas/fort-worth/water-damage-restoration/` to `/` before removing or de-indexing its content. Until the redirect is live, do not claim the conflict is resolved.
+- Fort Worth city page remains a broader location page covering all three services and linking to the homepage for primary Fort Worth water restoration, plus the Fort Worth fire and mold pages.
+- Haltom City and Bedford city pages remain broader city overviews with links to their three service pages.
+- Use distinct internal-link anchors: “Fort Worth water damage restoration” for the homepage and “Haltom City water damage restoration” for the dedicated Haltom page.
