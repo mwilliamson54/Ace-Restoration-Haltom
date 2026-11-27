@@ -1,2 +1,29 @@
 # Permanent redirect: Fort Worth water-damage intent is owned by the homepage
 /service-areas/fort-worth/water-damage-restoration/  /  301
+/service-areas/fort-worth/water-damage-restoration.html  /  301
+
+# Permanent redirects: consolidate overlapping *.html routes to canonical */ directory URLs
+/fire-smoke-damage-restoration.html  /fire-smoke-damage-restoration/  301
+/mold-removal-remediation.html  /mold-removal-remediation/  301
+/service-areas.html  /service-areas/  301
+/service-areas/arlington.html  /service-areas/arlington/  301
+/service-areas/bedford.html  /service-areas/bedford/  301
+/service-areas/benbrook.html  /service-areas/benbrook/  301
+/service-areas/burleson.html  /service-areas/burleson/  301
+/service-areas/colleyville.html  /service-areas/colleyville/  301
+/service-areas/everman.html  /service-areas/everman/  301
+/service-areas/forest-hill.html  /service-areas/forest-hill/  301
+/service-areas/fort-worth.html  /service-areas/fort-worth/  301
+/service-areas/haltom-city.html  /service-areas/haltom-city/  301
+/service-areas/haslet.html  /service-areas/haslet/  301
+/service-areas/hurst.html  /service-areas/hurst/  301
+/service-areas/lake-worth.html  /service-areas/lake-worth/  301
+/service-areas/naval-air-station-jrb.html  /service-areas/naval-air-station-jrb/  301
+/service-areas/north-richland-hills.html  /service-areas/north-richland-hills/  301
+/service-areas/richland-hills.html  /service-areas/richland-hills/  301
+/service-areas/river-oaks.html  /service-areas/river-oaks/  301
+/service-areas/roanoke.html  /service-areas/roanoke/  301
+/service-areas/sansom-park.html  /service-areas/sansom-park/  301
+/service-areas/watauga.html  /service-areas/watauga/  301
+/service-areas/white-settlement.html  /service-areas/white-settlement/  301
+/water-damage-restoration.html  /water-damage-restoration/  301
