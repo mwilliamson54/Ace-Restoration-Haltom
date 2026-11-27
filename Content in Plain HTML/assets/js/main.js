@@ -134,15 +134,44 @@
         return;
       }
 
-      // Honest status: no backend form endpoint is configured in this static HTML repository yet
       var action = contactForm.getAttribute('action');
       if (!action || action === '#') {
-        statusBox.className = 'form-status form-status--info is-visible';
-        statusBox.textContent = 'Your enquiry details passed validation, but this static site does not yet have a live form endpoint connected. Configure your form handler action URL (e.g., Cloudflare Pages Functions or Formspree) before going live.';
+        statusBox.className = 'form-status form-status--error is-visible';
+        statusBox.textContent = 'Form endpoint is not configured. Please call (469) 481-1273.';
         return;
       }
 
-      contactForm.submit();
+      var submitBtn = contactForm.querySelector('button[type="submit"]');
+      if (submitBtn) submitBtn.disabled = true;
+      statusBox.className = 'form-status form-status--info is-visible';
+      statusBox.textContent = 'Sending your enquiry...';
+
+      fetch(action, {
+        method: 'POST',
+        body: new FormData(contactForm)
+      })
+        .then(function (res) {
+          return res.json().then(function (data) {
+            return { ok: res.ok, data: data };
+          });
+        })
+        .then(function (result) {
+          if (result.ok && result.data && result.data.ok) {
+            statusBox.className = 'form-status form-status--info is-visible';
+            statusBox.textContent = 'Thank you. Your restoration enquiry has been sent. For urgent help, call (469) 481-1273.';
+            contactForm.reset();
+          } else {
+            statusBox.className = 'form-status form-status--error is-visible';
+            statusBox.textContent = (result.data && result.data.error) || 'Could not send enquiry. Please call (469) 481-1273.';
+          }
+        })
+        .catch(function () {
+          statusBox.className = 'form-status form-status--error is-visible';
+          statusBox.textContent = 'Network error. Please call (469) 481-1273 directly.';
+        })
+        .finally(function () {
+          if (submitBtn) submitBtn.disabled = false;
+        });
     });
   }
 })();
