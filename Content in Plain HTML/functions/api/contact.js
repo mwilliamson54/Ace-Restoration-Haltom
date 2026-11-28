@@ -23,6 +23,9 @@ export async function onRequestPost(context) {
       );
     }
 
+    const fromEmail = context.env.RESEND_FROM || 'Website Enquiry <onboarding@resend.dev>';
+    const toEmail = context.env.RESEND_TO || 'homemoldwaterfiredamage@gmail.com';
+
     const res = await fetch('https://api.resend.com/emails', {
       method: 'POST',
       headers: {
@@ -30,8 +33,8 @@ export async function onRequestPost(context) {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        from: 'Website Enquiry <noreply@homemoldwaterfiredamage.com>',
-        to: ['info@homemoldwaterfiredamage.com'],
+        from: fromEmail,
+        to: [toEmail],
         reply_to: email,
         subject: `New ${serviceType} enquiry from ${fullName}`,
         text: [
@@ -50,8 +53,13 @@ export async function onRequestPost(context) {
     });
 
     if (!res.ok) {
+      const errBody = await res.json().catch(() => ({}));
+      console.error('Resend API error:', res.status, errBody);
       return Response.json(
-        { ok: false, error: 'Unable to send your enquiry right now. Please call (469) 481-1273.' },
+        {
+          ok: false,
+          error: errBody.message || 'Unable to send your enquiry right now. Please call (469) 481-1273.'
+        },
         { status: 502 }
       );
     }
