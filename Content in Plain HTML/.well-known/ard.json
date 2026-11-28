@@ -1,0 +1,80 @@
+{
+  "entries": [
+    {
+      "identifier": "urn:air:homemoldwaterfiredamage.com:docs:llms-txt",
+      "displayName": "Home Mold Water Fire Damage - llms.txt",
+      "type": "text/markdown",
+      "url": "https://homemoldwaterfiredamage.com/llms.txt",
+      "description": "Structured Markdown index of water damage restoration, fire and smoke restoration, mold remediation, service areas, reviews, and contact resources for AI agents.",
+      "tags": ["restoration", "water-damage", "fire-damage", "mold-remediation", "fort-worth", "llms-txt"],
+      "representativeQueries": [
+        "What restoration services does Home Mold Water Fire Damage provide in Fort Worth?",
+        "Where can I find water, fire, and mold restoration pages and service areas?",
+        "How do I contact Home Mold Water Fire Damage for 24/7 emergency help?"
+      ]
+    },
+    {
+      "identifier": "urn:air:homemoldwaterfiredamage.com:web:water-damage-restoration",
+      "displayName": "Water Damage Restoration in Fort Worth, TX",
+      "type": "text/html",
+      "url": "https://homemoldwaterfiredamage.com/water-damage-restoration/",
+      "description": "Emergency water extraction, structural drying, dehumidification, burst pipe cleanup, flood extraction, and sewage cleanup across Fort Worth and Tarrant County.",
+      "tags": ["water-damage", "water-extraction", "structural-drying", "fort-worth", "haltom-city"],
+      "representativeQueries": [
+        "emergency water damage restoration near Fort Worth TX",
+        "burst pipe water extraction and structural drying in Haltom City",
+        "sewage backup cleanup and flood water removal services"
+      ]
+    },
+    {
+      "identifier": "urn:air:homemoldwaterfiredamage.com:web:fire-smoke-restoration",
+      "displayName": "Fire & Smoke Damage Restoration",
+      "type": "text/html",
+      "url": "https://homemoldwaterfiredamage.com/fire-smoke-damage-restoration/",
+      "description": "Fire and smoke damage restoration including emergency board-up, soot cleanup, smoke odor removal, and contents cleaning.",
+      "tags": ["fire-damage", "smoke-odor", "soot-cleanup", "board-up", "fort-worth"],
+      "representativeQueries": [
+        "fire and smoke damage restoration in Fort Worth TX",
+        "soot cleanup and smoke odor removal after a kitchen fire",
+        "emergency board up services after property fire"
+      ]
+    },
+    {
+      "identifier": "urn:air:homemoldwaterfiredamage.com:web:mold-remediation",
+      "displayName": "Mold Removal & Remediation",
+      "type": "text/html",
+      "url": "https://homemoldwaterfiredamage.com/mold-removal-remediation/",
+      "description": "Mold removal and remediation for attics, bathrooms, crawlspaces, and post-water-damage mold concerns in Texas.",
+      "tags": ["mold-remediation", "mold-removal", "black-mold", "tdlr", "fort-worth"],
+      "representativeQueries": [
+        "mold removal and remediation in Fort Worth and Haltom City",
+        "attic and crawlspace mold remediation services in Texas",
+        "how Texas TDLR mold assessment and remediation work"
+      ]
+    },
+    {
+      "identifier": "urn:air:homemoldwaterfiredamage.com:web:reviews",
+      "displayName": "Verified Customer Reviews",
+      "type": "text/html",
+      "url": "https://homemoldwaterfiredamage.com/reviews.html",
+      "description": "97 verified Google customer reviews (4.8/5 average) for Home Mold Water Fire Damage.",
+      "tags": ["reviews", "testimonials", "google-reviews", "fort-worth"],
+      "representativeQueries": [
+        "Read verified customer reviews for Home Mold Water Fire Damage",
+        "What is the customer rating for Home Mold Water Fire Damage in Fort Worth?"
+      ]
+    },
+    {
+      "identifier": "urn:air:homemoldwaterfiredamage.com:web:contact",
+      "displayName": "24/7 Emergency Contact & Estimate Request",
+      "type": "text/html",
+      "url": "https://homemoldwaterfiredamage.com/contact.html",
+      "description": "Request a free restoration estimate online or call (469) 481-1273 for 24/7 emergency dispatch.",
+      "tags": ["contact", "estimate", "emergency", "24-7"],
+      "representativeQueries": [
+        "Request a free water or mold restoration estimate in Fort Worth",
+        "What is the 24/7 emergency phone number for Home Mold Water Fire Damage?"
+      ]
+    }
+  ]
+}
